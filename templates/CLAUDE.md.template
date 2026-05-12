@@ -1,0 +1,48 @@
+# [Client Name] — Claude Context
+
+## Client Name
+
+<!-- The business name as it appears publicly -->
+
+## Business Type
+
+<!-- e.g. dental clinic, law firm, retail shop, restaurant -->
+
+## Stack
+
+<!-- Override studio standard here if needed, otherwise delete this section -->
+- Framework:
+- Language:
+- Styling:
+- Deployment:
+
+## Key Pages
+
+<!-- List the main pages of the site -->
+- Home
+- About
+- Services
+- Contact
+
+## Goals
+
+<!-- What is the primary conversion goal for this site? -->
+<!-- e.g. phone calls, form submissions, bookings, purchases -->
+
+## Integrations
+
+<!-- Any third-party services this site connects to -->
+<!-- e.g. Google Analytics, Mailchimp, Calendly, Stripe, CRM webhook -->
+
+## Constraints
+
+<!-- Any known limitations, legacy requirements, or restrictions -->
+<!-- e.g. client controls domain, specific brand colors required, no CMS wanted -->
+
+## Contacts
+
+<!-- Key people involved with this client -->
+- Primary Contact:
+- Phone:
+- Email:
+- GitHub Access:
